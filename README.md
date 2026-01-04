@@ -28,7 +28,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Rachit-21/Rachit-21/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
