@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">⚡About Me<br>I am Rachit Garia,  passionate about AI & ML, building projects with Python & C.</p>
+<p align="left">⚡About Me<br>I am Rachit Garia, building projects with Python & C.</p>
 
 ###
 
